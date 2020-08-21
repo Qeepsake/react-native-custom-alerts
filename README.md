@@ -1,1 +1,1 @@
-"# React Native Custom Alerts" 
+# React Native Custom Alerts
