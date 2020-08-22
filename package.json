@@ -1,7 +1,7 @@
 {
   "name": "react-native-custom-alerts",
   "version": "1.0.0",
-  "description": "A library to define alerts to be used accoss applications.",
+  "description": "A library to define alerts to be used all accoss an application.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
