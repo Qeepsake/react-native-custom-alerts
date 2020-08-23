@@ -11,7 +11,7 @@ This library provides the ability to define alerts which can be used all across 
 or
 
 ```sh
- yarn add react-native-navigation-drawer-extension
+ yarn add react-native-custom-alerts
 ```
 
 ## Usage
