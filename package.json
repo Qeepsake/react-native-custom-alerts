@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com-work:aspect-apps/react-native-custom-alerts.git"
+    "url": "git+https://github.com/aspect-apps/react-native-custom-alerts.git"
   },
   "keywords": [
     "react-native",
