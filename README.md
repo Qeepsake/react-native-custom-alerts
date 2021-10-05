@@ -5,13 +5,13 @@ This library provides the ability to define alerts which can be used all across 
 ## Install
 
 ```sh
- npm install react-native-custom-alerts
+ npm install @qeepsake/react-native-custom-alerts
 ```
 
 or
 
 ```sh
- yarn add react-native-custom-alerts
+ yarn add @qeepsake/react-native-custom-alerts
 ```
 
 ## Usage
@@ -46,10 +46,6 @@ static setup(name, title, message?, buttons?, options?)
 ```js
 static alert(name)
 ```
-
-## Authors
-
-- [**Sagar Raja Shakya**](https://github.com/thesagarshakya) - _Author_
 
 ## License
 
